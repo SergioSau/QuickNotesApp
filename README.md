@@ -24,4 +24,4 @@ A simple and elegant note-taking app built with **Kotlin**, **Jetpack Compose**,
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<tu_usuario>/QuickNotes-App.git
+   git clone https://github.com/<user>/QuickNotes-App.git
